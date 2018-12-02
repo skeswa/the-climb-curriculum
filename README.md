@@ -1,4 +1,4 @@
-# the-climb-curriculum
+# The Climb Curriculum
 Curriculum for those bold enough to attempt the climb
 
 ## Data Structures
@@ -9,6 +9,15 @@ In computer science, a Linked list is a linear collection of data elements, whos
 ![Linked list image](https://upload.wikimedia.org/wikipedia/commons/6/6d/Singly-linked-list.svg)
 
 ### Prompt
+#### Pre-requisites
+##### The C Programming Language 2nd Edition
+- Most of _A Tutorial Introduction_ **(1.2 - 1.10)**
+- All of _Types, Operators, and Expressions_ **(2.1 - 2.12)** 
+- Most of _Control Flow_ **(3.1 - 3.6)**
+- All of _Functions and Program Structure_ **(4.1 - 4.11)**
+- Most of _Pointers and Arrays_ ***(5.1 - 5.6, 5.11)**
+- Most of _Structures_ **(6.1 - 6.7)**
+
 #### Core Features
 You must create a Linked list with the following features:
 - You must be able to **insert** a value of an arbitrary type, and, optionally, specify an index for the insertion
